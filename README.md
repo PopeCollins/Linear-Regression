@@ -1,5 +1,5 @@
 ### Linear Regression
-To succesfully create a model can be done through different means. Linear regression is one of the many to consider whenever we might want to create a predictive model. 
+To succesfully create a model, this can be done through different means. Linear regression is one of the many to consider whenever we might want to create a predictive model. 
 
 In furcasting an actual event by relying on the previous occurences (data) Linear regression model will not only predict and outcome but in addition the feature below is also given.
 
